@@ -32,8 +32,8 @@ The dataset was engineered to reflect realistic patterns in popularity, based on
 *Sample of the Dataset Structure:*
 | Developer       | Genre       | Rating | Downloads | Twitter Followers | YouTube Trailer Likes | Year of Release | Popularity Score | Popularity Status |
 |-----------------|-------------|--------|-----------|--------------------|---------------|-----------------|------------------|--------------------|
-| Epic Games      | Action      | 4.5    | 1,000,000 | 2,000,000         | 1,500,000     | 2022            | 87               | Great             |
-| Nintendo        | Adventure   | 4.7    | 2,000,000 | 3,500,000         | 2,100,000     | 2021            | 92               | Great             |
+| Epic Games      | Adventure      | 3.2    | 3669954 | 15671117         | 855797     | 2011            | 81.77553933333334               | Great             |
+| Telltale Games        | Puzzle   | 3.3    | 5090621 | 812571         | 52728     | 2007            | 28.112036999999994               | Bad             |
 
 
 ## Training the Model
