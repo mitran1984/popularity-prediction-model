@@ -1,6 +1,7 @@
 # Video Game Popularity Prediction
 
-Here is the project we came up with for the 2024 **Spooktacular Solutions** Hackathon organized by the **Microsoft Ignite Students Club**. This project predicts the popularity of newly released video games using a machine learning model. By considering various parameters, such as game developer, genre, rating, downloads, and social media metrics, we can help developers and investors forecast potential success in the gaming market.
+Here is the project we came up with for the 2024 **Spooktacular Solutions** Hackathon organized by the **Microsoft Ignite Students Club**. 
+This project predicts calculates a popularity score by weighing different features and predicts the popularity of any upcoming game.
 
 ## Table of Contents 
 - [Video Game Popularity Prediction](#video-game-popularity-prediction)
